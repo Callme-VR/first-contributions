@@ -24,6 +24,7 @@
 - [Abbas Jaorawala](https://github.com/AbbasJaorawala)
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Vetle Kise](https://github.com/vetlekise)
+- [Vamsi](https://github.com/Vamsibuddaraj)
 - [Ahmet Karapınar](https://github.com/KarapinarAhmet)
 - [Barkn]
 - [Hossein Khalili](https://github.com/hos715)
@@ -678,6 +679,7 @@ Matthew Burgos
 - [Disha520](https://github.com/Disha520)
 - [Priyanshu Walia](https://github.com/priyanshuwalia)
 - [Daniel Guo](https://github.com/DiiGii)
+- [Andrew D](https://github.com/myMEDIA1578)
 - [Farhan Ilyas](https://github.com/Farhan2001M)
   [Lovepreet Kaur](https://github.com/LovekUR)
 - [Leola](https://github.com/leolalopeslobo)
